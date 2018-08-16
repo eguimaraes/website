@@ -1,0 +1,342 @@
+a, a:visited,img{
+	text-decoration: none;
+	border: 0px none white;
+	
+		
+}
+
+
+body{
+	background-color: white;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12pt;
+	min-width: 80%;
+	text-align: center;
+	margin: 2% 10% 2% 10%
+	
+	
+	
+
+
+}
+#container{
+	
+	background-color: white;
+	 width: 100%;
+
+	
+	
+}
+
+#container,#links,footer{
+	float: left;
+	
+	}
+	
+
+
+#header,#footer,#destaque,#links,destaquecoluna{
+background-color: white;
+font-family: Arial, Helvetica, sans-serif;
+text-align: left;
+float: left;
+margin: 0%;
+padding: 0%;
+min-width: 100%;
+padding: 2% 0% 0% 2%;
+background: darkolivegreen;
+
+}
+
+
+#header{
+	margin-bottom:0.2%;
+	min-height: 70pt;
+	height: 10%;
+	cursor: pointer;
+	}
+
+#header #nome,#profissao{
+	text-align: left;
+	vertical-align: middle;
+	font-size: 30pt;
+	color: white;
+	
+	
+	
+}
+
+#header #profissao{
+	font-size: 15pt;
+	
+	
+}
+
+
+#links {
+	text-align: left;
+	background: white;
+	color: darkolivegreen;
+	min-height: 2%;
+	padding: 0% 0% 0% 0.2%;
+		
+}
+
+
+#links a {
+float: left;
+list-style-image: none;
+list-style: none;
+margin-right: 24pt;
+text-decoration: none;
+text-align: center;
+float: left;
+font-size: 12pt;
+color: darkolivegreen
+	
+	
+	
+}
+
+#links a:hover,#links a {padding: 2pt 2pt 2pt 2pt; }
+
+#links a:hover {
+	background: darkolivegreen;
+	color: white;
+	
+	
+	
+}
+
+
+#destaque{
+	margin-top: 0.5%;
+	float: left;
+	clear: both;
+	border: 1px solid darkolivegreen;
+	background-color: white;
+	background-image: url("/imgs/treinamento.jpg");
+	background-size: cover;
+	background-position: 0% 50%;
+	min-height: 450px;
+	height: 60%;
+	min-width: 100%;
+	font-size: 11pt;
+	color: darkgray;
+	}
+	
+	#frame{margin-top: 0.5%;
+	float: left;
+	clear: both;
+	border: 1px solid darkolivegreen;
+	background-color: white;
+		min-width: 100%;
+	font-size: 11pt;
+		text-align: left;
+	padding: 1%;
+		}
+		
+		#frame #western,table{
+			
+			text-align: left;
+
+						
+		}
+		
+		#frame table{
+			border: 0px none white;
+			margin: 0%;
+			
+			
+			
+		}
+		
+		
+		
+		#titulo{
+			border-bottom: 1px solid darkolivegreen;
+			color: darkgrey;
+			padding: 0% 0% 0% 0%;
+			font-size: 16pt;
+			margin: 0.2% 0% 0.2% 0%;
+			
+			
+		}
+
+#destaque p{
+	text-align: center;
+	vertical-align: middle;
+	padding: 5pt;
+	background-color:#FFFFCC;
+	width: 20%;
+	height: 80%;
+	margin: 0% 0% 0% 2%;
+	float: left;
+	font-size: 10pt;
+	color: darkred;
+	font-family: Courier New, Courier, monospace;
+	overflow: hidden;
+	
+	
+}
+
+#destaque a p img {width: 80%;}
+
+#destaque a{text-decoration: none;}
+
+#destaquecoluna{
+	min-height: 30%;
+	width: 100%;
+	float: left;
+	margin-top: 4pt;
+	margin-bottom: 4pt;
+	text-align: center;
+	vertical-align: middle;
+		border: 1px solid darkolivegreen;
+		padding:  1%;
+	
+}
+
+
+
+#caixas{
+	
+	float: left;
+
+	
+	width: 20%;
+	
+	min-width: 300px;
+	min-height: 30%;
+
+	padding: 5pt;
+	
+	
+	
+	
+}
+
+
+
+#legendas{
+	font-size: 16pt;
+	float: left;
+	clear: both;
+	text-align: center;
+	margin-bottom: 5pt;
+	width: 100%;
+	padding: 10pt;
+	color: lightslategray;
+	
+	
+}
+
+ #texto{
+	font-size: 12pt;
+	color: lightslategray;
+	padding: 10pt;
+	
+	
+	
+	
+	
+}
+
+#caixas #imagens{
+vertical-align: middle;
+text-align: center;
+	
+}
+
+#footer{
+	text-align: center;
+	min-width: 100%;
+	float: left;
+	
+	color: white;
+	
+	margin-bottom: 10%;
+	padding-top: 5pt;
+		padding-bottom: 5pt;
+	text-decoration: none;
+}
+a {text-decoration: none;}
+
+#footer a {text-decoration: none;
+	color: white;}
+	
+	
+	#tabela #header{
+		
+		float:left;
+		
+		
+		
+		
+		
+	}
+	#chamadapp{
+		
+		text-align: left;
+		font-size: 16pt;
+		width: 90%;
+		height: 90%;
+	
+		/*margin: 0% 5% 0% 5%;*/
+		padding: 20pt;
+		
+		
+				
+		
+	}
+	
+	#chamadappfundo{
+		
+		
+		width: 90%;
+		height: 90%;
+		
+		margin: 0% 5% 0% 5%;
+				background-color: beige;
+				opacity: 0.9;
+		
+				
+
+		
+	}
+
+#chamadapp ul li{
+	text-align: left;
+		font-size: 18pt;
+	color: darkred;
+	list-style: none;
+	list-style-image: none;
+		
+		
+		margin-bottom: 8pt;
+		list-style: none;
+		opacity: 1;
+		z-index: 100;
+		float: left;
+		margin-left: 5pt;
+}
+
+#chamadapp ul li a, #chamadapp ul li a:visited{
+	
+	text-decoration: none;
+	
+	color: darkred;
+}
+
+#chamadapp ul li a:hover{
+	
+	color: darkolivegreen;
+	background: white;
+	font-style: italic;
+	font-weight: 600;
+	
+	
+	
+	
+}
+

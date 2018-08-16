@@ -1,0 +1,54 @@
+<html>
+  
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+    <title>Edvaldo Barbosa Guimarães Filho MBA,PMP, ITIL - Gerente de Projetos
+      Tecnologista</title>
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="css/web.css">
+    <script src="js/web.js"></script>
+  </head>
+  <body>
+    <div id="container" class="container">
+      <div id="header">
+        <div id="nome">Edvaldo Barbosa Guimarães Filho</div>
+        <div id="profissao">Gerente de Projetos e Tecnologista</div>
+      </div>
+      <div id="links"> <a href="#">Home</a> <a href="#">Curriculo</a> <a href="#">Projetos</a>
+        <a href="#">Publicações</a> <a href="#">Treinamentos</a> <a href="#">Soluções</a>
+        <a href="#">Parceiros</a> </div>
+      <div id="destaque"> <a href="mailto:edvaldoguimaraes2013@hotmail.com?Subject=Agendar Treinamento de SharePoint" target="_top">
+          <p>AGENDE!<br>
+            Treinamento/Workshop <br>
+            <img style="margin-top: 15pt; width: 150px; height: 150px;" src="imgs/sp.jpg"></p>
+        </a> <a href="mailto:edvaldoguimaraes2013@hotmail.com?Subject=Agendar Workshop SharePoint e AutoCAD" target="_top">
+          <p>AGENDE! WorkShop<br>
+            SharePoint e CAD<br>
+            <img style="margin-top:10pt" src="imgs/cad.jpg"></p>
+        </a> <a href="mailto:edvaldoguimaraes2013@hotmail.com?Subject=Agendar Workshop PLMSPOT" target="_top">
+          <p>PLMSPOT<br>
+            <img title="plmspot" alt="plmspot" style="margin-top:10pt" src="imgs/plmspot2.jpg"></p>
+        </a><a href="mailto:edvaldoguimaraes2013@hotmail.com?Subject=Agendar Treinamento PMBOK e SharePoint" target="_top">
+          <p>Gerenciamento de Projetos PMI/PMBOK <br>
+            <img title="pmbok" alt="pmbok" style="margin-top: 10pt; " src="imgs/plmspot.jpg"></p>
+        </a> </div>
+      <div id="destaquecoluna">
+        <div id="caixas"> <a href="https://br.linkedin.com/pub/edvaldo-guimaraes-mba-pmp-itil/96/189/859">
+            <img src="imgs/editil.jpg" alt="..."> </a> </div>
+        <div id="caixas">
+          <div id="legendas">Profissional certificado PMP</div>
+          <div id="imagens"> <img src="imgs/pmp.jpg" alt="..."></div>
+          <div id="texto">PMP #1669236</div>
+        </div>
+        <div id="caixas">
+          <div id="legendas">Profissional Certificado ITIL</div>
+          <div id="imagens"> <img src="imgs/itil.jpg" alt="..."></div>
+          <div id="texto">ITIL NR #4943678.20232804</div>
+        </div>
+      </div>
+      <div id="footer">Edvaldo Barbosa Guimarães Filho -
+        Edvaldoguimaraes2013@hotmail.com - Tel.: 11-2365-5527 - Cel.: 11-&nbsp;
+        97601-6715</div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,6 @@
+function retornarhome(){
+
+location.href='/';
+
+
+}

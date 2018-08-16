@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=iso-8859-1" http-equiv="content-type">
+    <title>Edvaldo Barbosa Guimarães Filho MBA,PMP, ITIL - Gerente de Projetos
+      Tecnologista</title>
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="css/web.css">
+    <script src="js/web.js"></script>
+  </head>
+  <body>
+    <div id="destaquecoluna">
+      <div id="caixas"> <a href="https://br.linkedin.com/pub/edvaldo-guimaraes-mba-pmp-itil/96/189/859">
+          <img src="imgs/editil.jpg" alt="..."> </a> </div>
+      <div id="caixas">
+        <div id="legendas">Profissional certificado PMP</div>
+        <div id="imagens"> <img src="imgs/pmp.jpg" alt="..."></div>
+        <div id="texto">PMP #1669236</div>
+      </div>
+      <div id="caixas">
+        <div id="legendas">Profissional Certificado ITIL</div>
+        <div id="imagens"> <img src="imgs/itil.jpg" alt="..."></div>
+        <div id="texto">ITIL NR #4943678.20232804</div>
+      </div>
+    </div>
+  </body>
+</html>

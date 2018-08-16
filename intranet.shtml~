@@ -1,0 +1,14 @@
+<html>
+  <head>
+<meta content="text/html; charset=iso-8859-1" http-equiv="content-type">
+     <!--#include virtual="/head.txt" -->
+  </head>
+  <body>
+    <div id="container" class="container">
+ <!--#include virtual="/header.html" -->
+      <!--#include virtual="/destaqueIntranet.html" -->
+      <!--#include virtual="/intranet.html" -->
+      <!--#include virtual="/destaquecolunas.html" -->
+      <!--#include virtual="/footer.html" --> </div>
+  </body>
+</html>
